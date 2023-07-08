@@ -1,2 +1,2 @@
-insertionSort:
-	gcc InsertionSort.c -o insertionSort
+demo:
+	gcc insertion_sort.c -o demo
